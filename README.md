@@ -2,15 +2,11 @@
 Creates a `/roll` Dice Roll slash command for Slack
 
 # Lambda Configuration
-**Runtime:** Python 2.7
-
-**Handler:** lambda_function.lambda_handler
-
-**Role:** Choose an existing role
-
-**Existing role:** lambda_basic_execution
-
-**Description:** DiceBot /roll
+- Runtime: Python 2.7
+- Handler: lambda_function.lambda_handler
+- Role: Choose an existing role
+- Existing role: lambda_basic_execution
+- Description: DiceBot /roll
 
 # Lambda Trigger
 ### API Gateway
