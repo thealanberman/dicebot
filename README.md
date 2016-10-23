@@ -1,5 +1,5 @@
-# slash_roll
-Creates a `/roll` Dice Roll slash command for Slack
+# DiceBot AWS Lambda Function
+Creates a `/roll` dice roll command for Slack.
 
 # Lambda Configuration
 - Runtime: Python 2.7
